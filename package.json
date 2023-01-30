@@ -30,6 +30,8 @@
   },
   "source": [
     "./src/template/index.html",
+    "./src/behavioral/iterator/index.html",
+    "./src/structural/facade/index.html",
     "./src/creational/builder/index.html"
   ]
 }
